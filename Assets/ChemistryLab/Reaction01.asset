@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 301f59539461ae24da07073c3e20364a, type: 3}
+  m_Name: Reaction01
+  m_EditorClassIdentifier: Assembly-CSharp::ChemistryLab.ReactionDefinition
+  reagentA: CH3COOH
+  reagentB: NaHCO3
+  title: "Gaz \xE7\u0131k\u0131\u015F\u0131"
+  equation: "CH3COOH + NaHCO3 \u2192 CH3COONa + H2O + CO2"
+  explanation: "Karbondioksit kabarc\u0131klar\u0131 olu\u015Fur. Sodyum asetat \xE7\xF6zeltide
+    kal\u0131r."
+  color: {r: 0, g: 1, b: 1, a: 1}
+  gas: 1
+  precipitate: 0
+  lightRequired: 0
